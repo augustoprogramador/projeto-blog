@@ -1,0 +1,13 @@
+.container {
+    margin-top: 15px;
+}
+
+.container > ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+
+.container > ul > li {
+    margin-right: 20px;
+}
