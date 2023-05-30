@@ -1,0 +1,16 @@
+.container-title {
+    color: white;
+}
+
+.container-title > h1 {
+    margin: 15px 0;
+    font-size: 135px;
+    display: flex;
+    font-weight: bolder;
+    justify-content: center;
+}
+
+.container-title > hr {
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
